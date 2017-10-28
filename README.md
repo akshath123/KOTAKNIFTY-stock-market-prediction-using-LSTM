@@ -1,2 +1,2 @@
-# KOTAKNIFTY-stock-market-prediction-using-LSTM
-I have predicted open column in Stock Market Dataset using LSTM model.  
+# Stock Market Prediction using LSTM 
+I have predicted open column in Stock Market Dataset using LSTM model. The accuracy is quite good. 
